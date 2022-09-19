@@ -1,7 +1,7 @@
 # Impact of AID on Poverty Alleviation
 
 ## Findings
-From this dashboard, we discovered Burundi is one of the countries with the highest extreme poverty rate, and the current extreme poverty rate is 79.39%, the moderately poor rate is 14.16% and 5.25% near-poor. In 2016, Burundi received the highest AID from the donor at about 600 million USD, and in 2019 it is 317 million USD. Hence the visualization shows that AID from the donor agency was not much effective to reduce the poverty Sub-Saharan African region.
+From this dashboard, we discovered Burundi is one of the countries with the highest extreme poverty rate, and the current extreme poverty rate is 79.39%, the moderately poor rate is 14.16% and 5.25% near-poor. In 2016, Burundi received the highest AID from the donor at about 600 million USD, and in 2019 it is 317 million USD. Hence the visualization shows that AID from the donor agency was not much effective to reduce the poverty in Sub-Saharan African region.
 
 ## Demo
 ---
